@@ -1,6 +1,6 @@
 # Desafios — Conceitos Essenciais do n8n
 
-Repositório dedicado a desafios de lógica e automação inspirados em fluxos do n8n e em operações de um banco digital. Esta página reúne uma visão geral dos três desafios; os enunciados completos ficam nas pastas correspondentes.
+Repositório dedicado a desafios de lógica e automação inspirados em fluxos do n8n e em operações de um banco digital. Esta página reúne uma visão geral dos quatro desafios; os enunciados e resoluções completos ficam nas pastas correspondentes.
 
 ## Desafios
 
@@ -48,16 +48,18 @@ As comparações devem respeitar exatamente o texto e a capitalização definido
 
 [Ver enunciado completo](./desafio-03-Validador-de-Status-n8n-no-Banco-Digital/desafio-03.md)
 
+### 4. Desafio Criativo: Planejamento de Automação
+
+Estruturação de um prompt claro e objetivo para orientar uma inteligência artificial na criação e configuração de um workflow no n8n.
+* **Objetivo:** Registrar pedidos de formulário e notificar a gestão automaticamente.
+* **Ferramentas:** Google Forms, Google Sheets e Gmail.
+
+[Ver prompt completo](./desafio-criativo-n8n/prompt.md)
+
 ## Organização
 
-Cada pasta contém o enunciado completo do desafio correspondente. Consulte os links acima para ver os formatos detalhados de entrada e saída e os exemplos.
+Cada pasta contém o material completo do desafio correspondente. Consulte os links acima para ver os formatos detalhados de entrada e saída, os exemplos e os prompts gerados.
 
 ---
 
 Desenvolvido por **Gabriela Dilly Silva**.
-
-[Ver enunciado completo](./desafio-03-Validador-de-Status-n8n-no-Banco-Digital/desafio-03.md)
-
-## Organização
-
-Cada pasta contém o enunciado completo do desafio correspondente. Consulte os links acima para ver os formatos detalhados de entrada e saída e os exemplos.
